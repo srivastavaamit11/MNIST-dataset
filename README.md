@@ -1,1 +1,1 @@
-# MNIST-dataset-EDA
+# MNIST-dataset-PCA
